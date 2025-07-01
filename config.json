@@ -6,6 +6,51 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+     "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8",
+      "name": "茅台资源",
+      "detail": ""
+    },
+    "jmzy": {
+      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "name": "金马资源网",
+      "detail": ""
+    },
+    "xingba": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏吧资源",
+      "detail": ""
+    },
+    "xxibaozyw": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "细胞网",
+      "detail": ""
+    },
+    "iqiyizyapi": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源站",
+      "detail": ""
+    },
+    "xiaojizy": {
+      "api": "https://api.xiaojizy.live/provide/vod",
+      "name": "小鸡资源",
+      "detail": ""
+    },
+    "dyttm3u8": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8",
+      "name": "电影天堂",
+      "detail": ""
+    },
+    "subo": {
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "name": "速播资源",
+      "detail": ""
+    },
+    "niuniuzy": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "name": "牛牛资源",
+      "detail": ""
+    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
