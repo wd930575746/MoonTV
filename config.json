@@ -101,10 +101,6 @@
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "name": "爱奇艺资源站"
     },
-    "xiaoji": {
-      "api": "https://api.xiaojizy.live/provide/vod",
-      "name": "小鸡资源"
-    },
     "subo": {
       "api": "https://subocaiji.com/api.php/provide/vod",
       "name": "速播资源"
@@ -112,6 +108,30 @@
     "niuniu": {
       "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
       "name": "牛牛资源"
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+      "name": "索尼资源"
+    },
+    "guangsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "name": "光速资源"
+    },
+    "iqiyizy2": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "name": "爱奇艺资源站"
+    },
+    "maoyan": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源"
+    },
+    "jiuyiyi": {
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/xml",
+      "name": "91资源"
+    },
+    "cklunzi": {
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "name": "CK伦理资源"
     }
   }
 }
