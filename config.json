@@ -132,6 +132,10 @@
     "cklunzi": {
       "api": "https://ckzy.me/api.php/provide/vod",
       "name": "CK伦理资源"
+    },
+    "huya": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
     }
   }
 }
