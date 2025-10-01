@@ -17,6 +17,7 @@
     "gen:runtime": "node scripts/convert-config.js",
     "gen:manifest": "node scripts/generate-manifest.js",
     "postbuild": "echo 'Build completed - sitemap generation disabled'",
+    "pages:build": "pnpm run build", 
     "prepare": "husky install"
   },
   "dependencies": {
